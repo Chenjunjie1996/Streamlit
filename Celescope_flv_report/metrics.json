@@ -1,0 +1,59 @@
+{
+    "sample_summary": {
+        "Sample ID": "D37",
+        "Assay": "Single-cell flv_CR",
+        "Chemistry": "flv",
+        "Software Version": "1.14.1"
+    },
+    "barcode_summary": {
+        "Raw Reads": 192282821,
+        "Valid Reads": 174244993,
+        "Valid Reads Fraction": 90.62,
+        "Q30 of Barcodes": 95.95,
+        "Q30 of UMIs": 96.7,
+        "No PolyT Reads": 0,
+        "Low Quality Reads": 0,
+        "No Linker Reads": 0,
+        "No Barcode Reads": 18037828,
+        "No Barcode Reads Fraction": 9.38,
+        "Corrected Linker Reads": 0,
+        "Corrected Barcode Reads": 10670096,
+        "Corrected Barcode Reads Fraction": 5.55
+    },
+    "convert_summary": {},
+    "assemble_summary": {},
+    "mapping_summary": {
+        "Reads Mapped To Any V(D)J Gene": "89.3%",
+        "Reads Mapped To IGH": "40.3%",
+        "Reads Mapped To IGL": "7.3%",
+        "Reads Mapped To IGK": "41.7%"
+    },
+    "cells_summary": {
+        "Estimated Number of Cells": "1,392",
+        "Fraction Reads in Cells": "44.7%",
+        "Mean Reads per Cell": "125,176",
+        "Mean Used Reads per Cell": "6,031",
+        "Median Used IGH UMIs per Cell": 33,
+        "Median Used IGL UMIs per Cell": 31,
+        "Median Used IGK UMIs per Cell": 53
+    },
+    "annotation_summary": {
+        "Cells With Productive V-J Spanning Pair": "50.9%",
+        "Cells With Productive V-J Spanning (IGK, IGH) Pair": "43.8%",
+        "Cells With Productive V-J Spanning (IGL, IGH) Pair": "7.2%",
+        "Cells With IGH Contig": "82.8%",
+        "Cells With CDR3-annotated IGH Contig": "74.5%",
+        "Cells With V-J Spanning IGH Contig": "78.8%",
+        "Cells With Productive IGH Contig": "70.9%",
+        "Cells With IGL Contig": "21.9%",
+        "Cells With CDR3-annotated IGL Contig": "21.7%",
+        "Cells With V-J Spanning IGL Contig": "21.6%",
+        "Cells With Productive IGL Contig": "8.8%",
+        "Cells With IGK Contig": "79.2%",
+        "Cells With CDR3-annotated IGK Contig": "78.4%",
+        "Cells With V-J Spanning IGK Contig": "78.2%",
+        "Cells With Productive IGK Contig": "71.3%"
+    },
+    "summarize_summary": {},
+    "match_summary": {}
+}
