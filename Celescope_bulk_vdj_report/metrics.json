@@ -1,0 +1,60 @@
+{
+    "sample_summary": {
+        "Sample ID": "Hum_0209PBMC_wx3w_T3lib",
+        "Assay": "Single-cell bulk_vdj",
+        "Chemistry": "customized",
+        "Software Version": "1.14.1"
+    },
+    "barcode_summary": {
+        "Raw Reads": 5734598,
+        "Valid Reads": 5632185,
+        "Valid Reads Fraction": 98.21,
+        "Q30 of Barcodes": 95.51,
+        "Q30 of UMIs": 94.04,
+        "No PolyT Reads": 0,
+        "Low Quality Reads": 0,
+        "No Linker Reads": 0,
+        "No Barcode Reads": 102413,
+        "No Barcode Reads Fraction": 1.79,
+        "Corrected Linker Reads": 0,
+        "Corrected Barcode Reads": 120844,
+        "Corrected Barcode Reads Fraction": 2.11
+    },
+    "cutadapt_summary": {
+        "Reads with Adapters": 9124,
+        "Reads with Adapters Fraction": 0.16,
+        "Reads Too Short": 18800,
+        "Reads Too Short Fraction": 0.33,
+        "Reads Written": 5613385,
+        "Reads Written Fraction": 99.67,
+        "Base Pairs Processed": 844827750,
+        "Base Pairs Quality-Trimmed": 6236178,
+        "Base Pairs Quality-Trimmed Fraction": 0.74,
+        "Base Pairs Written": 838385367,
+        "Base Pairs Written Fraction": 99.24
+    },
+    "consensus_summary": {
+        "UMI Counts": 85418,
+        "Mean UMI Length": 148.79,
+        "Ambiguous Base Counts": 6967218,
+        "Ambiguous Base Counts Fraction": 54.82,
+        "Filter UMI Counts": 54261,
+        "Filter UMI Counts Fraction": 63.52
+    },
+    "mapping_vdj_summary": {
+        "Species": "human",
+        "UMIs Mapped To Any VDJ Gene": 31131,
+        "UMIs Mapped To Any VDJ Gene Fraction": 99.92,
+        "UMIs with CDR3": 26179,
+        "UMIs with CDR3 Fraction": 84.02,
+        "UMIs with Correct CDR3": 22754,
+        "UMIs with Correct CDR3 Fraction": 73.03,
+        "UMIs Mapped Confidently To VJ Gene": 21477,
+        "UMIs Mapped Confidently To VJ Gene Fraction": 68.93,
+        "UMIs Mapped To TRA": 7138,
+        "UMIs Mapped To TRA Fraction": 22.91,
+        "UMIs Mapped To TRB": 14135,
+        "UMIs Mapped To TRB Fraction": 45.37
+    },
+    "count_vdj_summary": {}
+}
